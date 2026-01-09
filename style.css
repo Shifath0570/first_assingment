@@ -167,3 +167,47 @@
 
 
 
+
+.about_section{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-bottom: 100px;
+}
+.about{
+    width: 70%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 100px;
+}
+.about_content h3{
+    font-size: 15px;
+    font-weight: 500;
+    color: #30B868;
+}
+.about_content h1{
+    font-size: 40px;
+    font-weight: 700;
+    margin: 20px 0;
+}
+.about_content p{
+    font-size: 13px;
+    margin-bottom: 20px;
+    color: #627382;
+}
+.list_item ul li{
+    list-style: none;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+
+
+
+
+
